@@ -1,0 +1,7 @@
+C:\Users\Manuel\source\repos\ReverseShell\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe.config
+C:\Users\Manuel\source\repos\ReverseShell\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe
+C:\Users\Manuel\source\repos\ReverseShell\ServerSocket\ServerSocket\bin\Debug\ServerSocket.pdb
+C:\Users\Manuel\source\repos\ReverseShell\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csproj.AssemblyReference.cache
+C:\Users\Manuel\source\repos\ReverseShell\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\ReverseShell\ServerSocket\ServerSocket\obj\Debug\ServerSocket.exe
+C:\Users\Manuel\source\repos\ReverseShell\ServerSocket\ServerSocket\obj\Debug\ServerSocket.pdb
